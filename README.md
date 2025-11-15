@@ -5,7 +5,7 @@
 />
 </p>
 
-> Boot da Carreira é o guia para quem decidiu entrar na programação, mas ainda se sente perdido sobre por onde começar. Aqui, você aprende o básico com clareza, entende os conceitos sem enrolação e coloca a mão no código logo nos primeiros capítulos. Pensado especialmente para adultos em transição de carreira, este e-book te mostra o caminho real, simples e possível para dar seus primeiros passos na tecnologia com segurança e confiança.
+> Modo Dev Ativado é o guia para quem decidiu entrar na programação, mas ainda se sente perdido sobre por onde começar. Aqui, você aprende o básico com clareza, entende os conceitos sem enrolação e coloca a mão no código logo nos primeiros capítulos. Pensado especialmente para adultos em transição de carreira, este e-book te mostra o caminho real, simples e possível para dar seus primeiros passos na tecnologia com segurança e confiança.
 
 # Projeto E-book Gerado por I.A.s
 
