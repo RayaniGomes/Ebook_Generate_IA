@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./assets/capa_github.png"
-    width="300"
+    width="700"
 />
 </p>
 
